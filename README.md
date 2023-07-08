@@ -35,6 +35,9 @@ To train our movie recommender system, we utilized the collected dataset and imp
 
 To provide a user-friendly interface for the movie recommender system, we developed a web application using Flask, a Python web framework. The application allows users to input their movie preferences and receives personalized movie recommendations based on collaborative filtering techniques. The recommendations are presented in an intuitive and interactive manner, enabling users to explore suggested movies and discover new films of interest.
 
+web app link : https://movie0recommender.streamlit.app/
+
+
 ## Dependencies
 
 - Python 3.7 or higher
@@ -58,5 +61,4 @@ To provide a user-friendly interface for the movie recommender system, we develo
 
 We welcome contributions to enhance the project and improve the movie recommender system's performance. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
 
-web app link : https://movie0recommender.streamlit.app/
 
